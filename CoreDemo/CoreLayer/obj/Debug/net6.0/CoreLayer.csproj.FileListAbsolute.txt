@@ -1,0 +1,12 @@
+E:\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+E:\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+E:\CoreDemo\CoreLayer\bin\Debug\net6.0\ref\CoreLayer.dll
+E:\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+E:\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
+E:\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+E:\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+E:\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+E:\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+E:\CoreDemo\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
+E:\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
